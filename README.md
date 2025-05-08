@@ -11,7 +11,8 @@ A desktop application that automates the generation of distributor audit reports
 
 ## Screenshots
 
-[Add screenshots of the application here]
+![image](https://github.com/user-attachments/assets/270f6d27-1fef-4d6a-a324-b2217da46ab0)
+
 
 ## Usage
 
@@ -49,7 +50,7 @@ pyinstaller hccb_report_generator.spec
 
 ## License
 
-[Add your license information here]
+© 2024 TNBT. All rights reserved
 
 ## Author
 
